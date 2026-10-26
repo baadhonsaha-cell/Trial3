@@ -4,6 +4,7 @@ public class Student {
 	private float cgpa;
 	private int creditcomplete;
 	private Course [] c;
+	private String Sex;
 	
 	public Student(String name,float cgpa,int creditcomplete,int x){
 		this.name=name;
